@@ -7,3 +7,5 @@
 ### 1) JWT
 ### 2) Cookies
 ### 3) Authentication refactoring using utils and coding in Models folder
+### 4) Image Upload
+
