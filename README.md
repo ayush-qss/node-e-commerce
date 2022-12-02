@@ -1,9 +1,9 @@
 # Topics Used
 
 ## ReactJS
-### How to connect ReactJs in order to access cookies
+### 1) How to connect ReactJs in order to access cookies
 
 ## NodeJs
-### JWT
-### Cookies
-### Authentication refactoring using utils and coding in Models folder
+### 1) JWT
+### 2) Cookies
+### 3) Authentication refactoring using utils and coding in Models folder
