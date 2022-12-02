@@ -9,3 +9,6 @@
 ### 3) Authentication refactoring using utils and coding in Models folder
 ### 4) Image Upload
 
+## Mongo DB
+### 1) Populate (connect two collections)
+### 2) Virtual (connect two collections)
